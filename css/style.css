@@ -1,0 +1,140 @@
+/*font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;*/
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #626262;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  padding-left: 40px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #000000;
+  text-decoration: underline;
+}
+.col-10 h5 {
+  margin-top: 40px;
+  color: #dbd8d2;
+  font-size: 22px;
+  text-transform: uppercase;
+  font-family: "Ubuntu", sans-serif;
+}
+.col-10 h1 {
+  margin-top: 30px;
+  color: #929292;
+  font-size: 36px;
+  font-family: "Playfair Display", serif;
+}
+.col-10 p {
+  margin-top: 30px;
+  color: #7d7d7d;
+  font-size: 16px;
+  font-family: "Playfair Display", serif;
+}
+.col-10 h4 {
+  margin-top: 50px;
+  color: #dbd8d2;
+  font-size: 21px;
+  text-transform: uppercase;
+  margin-bottom: 130px;
+  font-family: "Ubuntu", sans-serif;
+}
+.col-6 .pp {
+  margin-bottom: 120px;
+  color: #7d7d7d;
+  font-size: 16px;
+  font-family: "Playfair Display", serif;
+}
+.col-6 .ll {
+  margin-top: 50px;
+  color: #dbd8d2;
+  font-size: 22px;
+  text-transform: uppercase;
+  font-family: "Ubuntu", sans-serif;
+}
+.newsletter {
+  background-color: #f0f0f0;
+  height: 300px;
+}
+.col-6 {
+  padding-top: 70px;
+  position: relative;
+}
+.col-6 h1 {
+  padding-bottom: 45px;
+  color: #7d7d7d;
+  font-family: "Playfair Display", serif;
+}
+.col-6 input {
+  width: 102%;
+  background: transparent;
+  border: none;
+  padding-top: 20px;
+  border-bottom: 2px solid #000000;
+}
+.col-6 input:focus {
+  outline: none;
+}
+.col-6 input::placeholder {
+  color: #626262;
+  font-size: 14px;
+  font-family: "Playfair Display", serif;
+}
+.icon {
+  position: absolute;
+  right: 0px;
+  bottom: 2px;
+}
+.loadmore {
+  text-align: center;
+  padding: 10px 0px;
+  margin-top: 40px;
+  margin-bottom: 100px;
+}
+.loadmore button:hover {
+  background-color: #626262;
+  color: #ffffff;
+}
+.loadmore button {
+  padding: 15px 30px;
+  font-size: 20px;
+  color: #626262;
+  background-color: #ffffff;
+  color: #7d7d7d;
+  font-family: "Playfair Display", serif;
+  text-transform: capitalize;
+}
+.footer {
+  background-color: #f0f0f0;
+  width: 100%;
+}
+.privacy {
+}
+.privacy ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.privacy ul li {
+  text-transform: capitalize;
+  font-size: 24px;
+  color: #7d7d7d;
+  font-family: "Playfair Display", serif;
+}
+.social-icon {
+}
+.social-icon ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.social-icon ul li {
+  text-transform: capitalize;
+  font-size: 20px;
+  color: #7d7d7d;
+  font-family: "Playfair Display", serif;
+}
